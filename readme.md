@@ -4,3 +4,4 @@
 
 - [001](./src/001.py): `dictionary` `function` `lambda` `list comprehension` `list` `rounding` `sorting`
 - [002](./src/002.py): `functions` `higher-order functions` `closures` `function decorators` `variable-length argument lists`
+- [003](./src/003.py): `closures` `functions` `nonlocal keyword`
