@@ -6,3 +6,4 @@
 - [002](./src/002.py): `functions` `higher-order functions` `closures` `function decorators` `variable-length argument lists`
 - [003](./src/003.py): `closures` `functions` `nonlocal`
 - [004](./src/004.py): `decorators` `exceptions` `isinstance`
+- [005](./src/005.py): `functions` `list comprehensions` `lists of different lengths` `zip`
