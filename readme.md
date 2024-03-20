@@ -2,6 +2,12 @@
 
 ### Curation of assorted Python scripts exploring diverse topics and experiments.
 
+##### Docs
+
+- [Environment setup commands](./environment_setup.md)
+
+##### Scripts
+
 - [001](./src/001.py): `dictionary` `function` `lambda` `comprehension` `list` `rounding` `sorting`
 - [002](./src/002.py): `function` `higher-order function` `closure` `function decorator` `args`
 - [003](./src/003.py): `closure` `function` `nonlocal`
