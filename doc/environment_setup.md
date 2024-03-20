@@ -1,6 +1,6 @@
 # Python Environment Setup Commands 🐍
 
-[<- back](./readme.md)
+[<- back](../readme.md)
 
 ### Create virtual environment
 

@@ -4,7 +4,7 @@
 
 ##### Docs
 
-- [Environment setup commands](./environment_setup.md)
+- [Environment setup commands](./doc/environment_setup.md)
 
 ##### Scripts
 
