@@ -14,4 +14,4 @@
 - [p004](./src/p004.py): `decorator` `exception` `isinstance`
 - [p005](./src/p005.py): `function` `comprehension` `zip`
 - [p006](./src/p006.py): `comprehension` `itertools` `zip` `zip_longest`
-- [p007](./src/p007.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
+- [p007](./src/p007.py): `file` `i/o` `json`
