@@ -16,3 +16,4 @@
 - [p006](./src/p006.py): `comprehension` `itertools` `zip` `zip_longest`
 - [p007](./src/p007.py): `file` `i/o` `json`
 - [p008](./src/p008.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
+- [p009](./src/p009.py): `association` `class` `init` `@property` `self` `@setter`
