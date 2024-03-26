@@ -17,4 +17,4 @@
 - [p007](./src/p007.py): `file` `i/o` `json`
 - [p008](./src/p008.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
 - [p009](./src/p009.py): `association` `class` `init` `@property` `self` `@setter`
-- [p010](./src/p010.py): `argv` `file` `fitz` `image` `pdf` `sys`
+- [p010](./src/p010.py): `argv` `file` `fitz` `help` `image` `pdf` `sys`
