@@ -20,3 +20,4 @@
 - [p010](./src/p010.py): `argv` `file` `fitz` `help` `image` `pdf` `sys`
 - [p011](./src/p011.py): `dunder` `__repr__` `__str__`
 - [p012](./src/p012.py): `dunder` `__add__` `__eq__` `__ge__` `__gt__` `__init__` `__le__` `__lt__` `__mul__` `__sub__`
+- [p013](./src/p013.py): `dunder` `__init__` `__new__`
