@@ -16,6 +16,7 @@
 - [p006](./src/p006.py): `comprehension` `itertools` `zip` `zip_longest`
 - [p007](./src/p007.py): `file` `i/o` `json`
 - [p008](./src/p008.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
-- [p009](./src/p009.py): `association` `class` `init` `@property` `self` `@setter`
+- [p009](./src/p009.py): `association` `class` `init` `self` `@property` `@setter`
 - [p010](./src/p010.py): `argv` `file` `fitz` `help` `image` `pdf` `sys`
-- [p011](./src/p011.py): `__repr__` `__str__`
+- [p011](./src/p011.py): `dunder` `__repr__` `__str__`
+- [p012](./src/p012.py): `dunder` `__add__` `__eq__` `__ge__` `__gt__` `__init__` `__le__` `__lt__` `__mul__` `__sub__`
