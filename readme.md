@@ -18,3 +18,4 @@
 - [p008](./src/p008.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
 - [p009](./src/p009.py): `association` `class` `init` `@property` `self` `@setter`
 - [p010](./src/p010.py): `argv` `file` `fitz` `help` `image` `pdf` `sys`
+- [p011](./src/p011.py): `__repr__` `__str__`
