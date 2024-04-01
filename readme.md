@@ -23,3 +23,4 @@
 - [p013](./src/p013.py): `dunder` `__init__` `__new__`
 - [p014](./src/p014.py): `context manager` `dunder` `__enter__` `__exit__`
 - [p015](./src/p015.py): `generator`
+- [p016](./src/p016.py): `yield` `generator` `primes` `multiple assignment`
