@@ -25,3 +25,4 @@
 - [p015](./src/p015.py): `generator`
 - [p016](./src/p016.py): `generator` `primes` `multiple assignment` `yield`
 - [p017](./src/p017.py): `context manager` `contextlib` `file` `generator` `with/as` `yield` `@contextmanager`
+- [p018](./src/p018.py): `function decorator with class`
