@@ -22,3 +22,4 @@
 - [p012](./src/p012.py): `dunder` `__add__` `__eq__` `__ge__` `__gt__` `__init__` `__le__` `__lt__` `__mul__` `__sub__`
 - [p013](./src/p013.py): `dunder` `__init__` `__new__`
 - [p014](./src/p014.py): `context manager` `dunder` `__enter__` `__exit__`
+- [p015](./src/p015.py): `generator`
