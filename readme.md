@@ -26,3 +26,4 @@
 - [p016](./src/p016.py): `generator` `primes` `multiple assignment` `yield`
 - [p017](./src/p017.py): `context manager` `contextlib` `file` `generator` `with/as` `yield` `@contextmanager`
 - [p018](./src/p018.py): `function decorator with class`
+- [p019](./src/p019.py): `dunder` `__call__`
