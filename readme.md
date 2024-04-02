@@ -15,7 +15,7 @@
 - [p005](./src/p005.py): `function` `comprehension` `zip`
 - [p006](./src/p006.py): `comprehension` `itertools` `zip` `zip_longest`
 - [p007](./src/p007.py): `file` `i/o` `json`
-- [p008](./src/p008.py): `dictionary` `exception` `filter` `function` `lambda` `list` `map` `reversed` `sys.exit`
+- [p008](./src/p008.py): `dictionary` `dispatch table` `exception` `filter` `function` `lambda` `list` `map` `reversed` `strategy` `sys.exit`
 - [p009](./src/p009.py): `association` `class` `init` `self` `@property` `@setter`
 - [p010](./src/p010.py): `argv` `file` `fitz` `help` `image` `pdf` `sys`
 - [p011](./src/p011.py): `dunder` `__repr__` `__str__`
@@ -26,4 +26,4 @@
 - [p016](./src/p016.py): `generator` `primes` `multiple assignment` `yield`
 - [p017](./src/p017.py): `context manager` `contextlib` `file` `generator` `with/as` `yield` `@contextmanager`
 - [p018](./src/p018.py): `function decorator with class`
-- [p019](./src/p019.py): `dunder` `__call__`
+- [p019](./src/p019.py): `dispatch table` `dunder` `strategy` `__call__`
