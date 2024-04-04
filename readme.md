@@ -28,3 +28,4 @@
 - [p018](./src/p018.py): `function decorator with class`
 - [p019](./src/p019.py): `dispatch table` `dunder` `strategy` `__call__`
 - [p020](./src/p020.py): `class decorator with function` `dunder` `__call__` `__init__`
+- [p021](./src/p021.py): `docstring` `documentation` `dunder` `__name__`
