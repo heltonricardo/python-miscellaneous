@@ -11,7 +11,7 @@
 - [p001](./src/p001.py): `dictionary` `function` `lambda` `comprehension` `list` `rounding` `sorting`
 - [p002](./src/p002.py): `function` `higher-order function` `closure` `function decorator` `args`
 - [p003](./src/p003.py): `closure` `function` `nonlocal`
-- [p004](./src/p004.py): `decorator` `exception` `isinstance`
+- [p004](./src/p004.py): `decorator` `exception` `isinstance` `raise`
 - [p005](./src/p005.py): `function` `comprehension` `zip`
 - [p006](./src/p006.py): `comprehension` `itertools` `zip` `zip_longest`
 - [p007](./src/p007.py): `file` `i/o` `json`
@@ -34,3 +34,6 @@
 - [p024](./src/p024.py): `abstract class` `abstract method` `inheritance` `pass statement` `placeholder` `@abstractmethod`
 - [p025](./src/p025.py): `log` `mixin` `multiple inheritance`
 - [p026](./src/p026.py): `encapsulation` `private attribute` `@property` `@setter`
+- [p027](./src/p027.py): `custom exception` `raise` `try/except`
+
+- [p030](./src/p030.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `@property` `@setter`
