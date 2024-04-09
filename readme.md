@@ -33,3 +33,4 @@
 - [p023](./src/p023.py): `enum` `enum.auto`
 - [p024](./src/p024.py): `abstract class` `abstract method` `inheritance` `pass statement` `placeholder` `@abstractmethod`
 - [p025](./src/p025.py): `log` `mixin` `multiple inheritance`
+- [p026](./src/p026.py): `encapsulation` `private attribute` `@property` `@setter`
