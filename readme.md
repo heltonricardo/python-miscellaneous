@@ -31,3 +31,4 @@
 - [p021](./src/p021.py): `docstring` `documentation` `dunder` `__name__`
 - [p022](./src/p022.py): `documentation` `help`
 - [p023](./src/p023.py): `enum` `enum.auto`
+- [p024](./src/p024.py): `abstract class` `abstract method` `inheritance` `pass statement` `placeholder` `@abstractmethod`
