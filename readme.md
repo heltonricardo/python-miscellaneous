@@ -32,3 +32,4 @@
 - [p022](./src/p022.py): `documentation` `help`
 - [p023](./src/p023.py): `enum` `enum.auto`
 - [p024](./src/p024.py): `abstract class` `abstract method` `inheritance` `pass statement` `placeholder` `@abstractmethod`
+- [p025](./src/p025.py): `log` `mixin` `multiple inheritance`
