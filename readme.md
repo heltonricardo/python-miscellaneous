@@ -37,3 +37,4 @@
 - [p027](./src/p027.py): `custom exception` `raise` `try/except`
 - [p028](./src/p028.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `type hinting` `@property` `@setter`
 - [p029](./src/p029.py): `asdict` `astuple` `dataclass` `default_factory` `dunder` `field` `__eq__` `__init__` `__repr__`
+- [p030](./src/p030.py): `defaults` `namedtuple` `NamedTuple`
