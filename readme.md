@@ -35,5 +35,5 @@
 - [p025](./src/p025.py): `log` `mixin` `multiple inheritance`
 - [p026](./src/p026.py): `encapsulation` `private attribute` `@property` `@setter`
 - [p027](./src/p027.py): `custom exception` `raise` `try/except`
-
 - [p028](./src/p028.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `type hinting` `@property` `@setter`
+- [p029](./src/p029.py): `asdict` `astuple` `dataclass` `default_factory` `dunder` `field` `__eq__` `__init__` `__repr__`
