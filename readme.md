@@ -38,3 +38,4 @@
 - [p028](./src/p028.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `type hinting` `@property` `@setter`
 - [p029](./src/p029.py): `asdict` `astuple` `dataclass` `default_factory` `dunder` `field` `__eq__` `__init__` `__repr__`
 - [p030](./src/p030.py): `defaults` `namedtuple` `NamedTuple`
+- [p031](./src/p031.py): `collections` `Sequence` `__getitem__` `__iter__` `__len__` `__next__` `__setitem__`
