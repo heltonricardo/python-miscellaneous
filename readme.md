@@ -36,4 +36,4 @@
 - [p026](./src/p026.py): `encapsulation` `private attribute` `@property` `@setter`
 - [p027](./src/p027.py): `custom exception` `raise` `try/except`
 
-- [p030](./src/p030.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `@property` `@setter`
+- [p028](./src/p028.py): `abstract` `aggregation` `encapsulation` `inheritance` `polymorphism` `type hinting` `@property` `@setter`
