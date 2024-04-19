@@ -20,7 +20,9 @@
 
 ### Install package
 
-`pip install package_name`
+- `pip install package_name`; or
+- `python -m pip install package_name`; or
+- `python3 -m pip install package_name`
 
 ### Uninstall package
 
