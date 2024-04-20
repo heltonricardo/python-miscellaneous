@@ -47,3 +47,8 @@ print("H)", my_time_stamp)
 from_timestamp = datetime.fromtimestamp(
     my_time_stamp, timezone("Australia/Canberra"))
 print("I)", from_timestamp)
+
+my_format = "%d~%m~%Y"
+print("J)", now.strftime(my_format))
+
+print("K)", now.year, now.month, now.day)
