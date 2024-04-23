@@ -40,3 +40,4 @@
 - [p030](./src/p030.py): `defaults` `namedtuple` `NamedTuple`
 - [p031](./src/p031.py): `collections` `Sequence` `__getitem__` `__iter__` `__len__` `__next__` `__setitem__`
 - [p032](./src/p032.py): `datetime` `fromtimestamp` `pytz` `strftime` `strptime` `timestamp` `timezone` `tzinfo`
+- [p033](./src/p033.py): `relativedelta` `strftime`
