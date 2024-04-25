@@ -42,3 +42,4 @@
 - [p032](./src/p032.py): `datetime` `fromtimestamp` `pytz` `strftime` `strptime` `timestamp` `timezone` `tzinfo`
 - [p033](./src/p033.py): `relativedelta` `strftime`
 - [p034](./src/p034.py): `calender` `day_name` `locale` `monthrange` `weekday`
+- [p035](./src/p035.py): `date` `file size` `formatter` `byte`
