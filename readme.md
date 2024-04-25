@@ -43,3 +43,4 @@
 - [p033](./src/p033.py): `relativedelta` `strftime`
 - [p034](./src/p034.py): `calender` `day_name` `locale` `monthrange` `weekday`
 - [p035](./src/p035.py): `date` `file size` `formatter` `byte`
+- [p036](./src/p036.py): `listdir` `os` `path` `stat` `system`
