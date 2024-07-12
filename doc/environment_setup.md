@@ -36,4 +36,4 @@
 
 `pip install -r requirements.txt`
 
-[<- back](./readme.md)
+[<- back](../readme.md)
